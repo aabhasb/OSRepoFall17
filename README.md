@@ -1,2 +1,2 @@
 # OSRepoFall17
-Repo for OS project
+Scalable publish/subscribe inside REDIS
